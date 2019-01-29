@@ -112,7 +112,7 @@
 //   return arr;
 // }
 
-// Re-write this function using higher order array methods.
+// Re-write this function using higher order functions.
 
 // const updateTitle = arr => {
 //   return arr.map(title => title === "Hand of the King" ? title = "Dead on the Pot" : title);
@@ -163,7 +163,7 @@
 //   return arr; 
 // }
 
-// Re-write this function using only higher order array functions.
+// Re-write this function using only higher order functions.
 // const fizzBuzzES6 = arr => {
 //   return arr.map(innerArr => innerArr.map(num => {
 //     if(num % 3 === 0 && num % 5 === 0) {
