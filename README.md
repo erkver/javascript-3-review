@@ -1,5 +1,5 @@
 # Javascript Morning Review
-Morning review for JavaScript day 3.
+Morning review for JavaScript covering Classes, Destructuring, Higher Order Functions, and For/In Loops.
 
 ## Instructions
 ### Classes
@@ -22,6 +22,6 @@ Morning review for JavaScript day 3.
 2. Re-write this function using higher order functions if you weren't using them already.
 3. Write a function that takes in an array of arrays and replaces numbers divisible by 3 with "Fizz", numbers divisible by 5 with "Buzz", and numbers divisible by 3 and 5 with "FizzBuzz".
 4. Re-write this function using only higher order array functions.
-### For-in Loops
+### For/in Loops
 1. Write a function that kills off one of Dany's dragons using a for in loop.
 2. Write a function that outputs either Dany's or Tywin's full title.
